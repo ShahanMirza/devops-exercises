@@ -12,12 +12,14 @@
 <summary>Which command you run to view all pods running on all namespaces?</code></summary><br><b>
 
 `kubectl get pods --all-namespaces`
+`kubectl get pods -A`
 </b></details>
 
 <details>
 <summary>How to list all namespaces?</code></summary><br><b>
 
 `kubectl get namespaces`
+`kubectl get ns`
 </b></details>
 
 <details>
